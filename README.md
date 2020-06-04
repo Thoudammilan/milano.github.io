@@ -1,2 +1,2 @@
 # milano.github.io
-milanwebsite
+milanowebsite
